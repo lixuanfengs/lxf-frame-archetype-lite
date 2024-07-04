@@ -1,0 +1,1 @@
+docker stop lxf-frame-archetype-lite
